@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "吃豆人", "绘图\绘图.vcxproj", "{D8070F7E-20B0-4696-8611-BAA850479D9F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "简易吃豆人", "简易吃豆人\简易吃豆人.vdproj", "{854A9135-523B-4B8C-AFDA-5BC19FC7BB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Debug|x64.ActiveCfg = Debug|x64
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Debug|x64.Build.0 = Debug|x64
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Debug|x86.Build.0 = Debug|Win32
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Release|x64.ActiveCfg = Release|x64
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Release|x64.Build.0 = Release|x64
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Release|x86.ActiveCfg = Release|Win32
+		{D8070F7E-20B0-4696-8611-BAA850479D9F}.Release|x86.Build.0 = Release|Win32
+		{854A9135-523B-4B8C-AFDA-5BC19FC7BB58}.Debug|x64.ActiveCfg = Debug
+		{854A9135-523B-4B8C-AFDA-5BC19FC7BB58}.Debug|x86.ActiveCfg = Debug
+		{854A9135-523B-4B8C-AFDA-5BC19FC7BB58}.Release|x64.ActiveCfg = Release
+		{854A9135-523B-4B8C-AFDA-5BC19FC7BB58}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981960F1-4A89-4107-A6A8-87203646B8A5}
+	EndGlobalSection
+EndGlobal
